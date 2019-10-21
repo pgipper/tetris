@@ -1,0 +1,15 @@
+[general]
+name=Tetris
+author=Peter Gipper, Jan Bodnar
+email=p
+description=Use WASD keys to move and rotate. SPACE to drop a piece. P to pause.
+homepage=
+tags=
+
+version=1.0.0
+qgisMinimumVersion=2.99
+qgisMaximumVersion=3.99
+
+icon=tetris.png
+experimental=True
+deprecated=False
