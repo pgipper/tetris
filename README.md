@@ -1,4 +1,4 @@
-# Tetris
+Tetris
 ==========
 
 Play Tetris on the map canvas.
