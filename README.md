@@ -7,9 +7,11 @@ The actual game code was taken from here http://zetcode.com/gui/pyqt5/tetris/
 
 Controls
 -----------
-WASD    move and rotate
-SPACE   drop a piece
-P       pause
+WASD to move and rotate
+
+SPACE to drop a piece
+
+P to pause
 
 ![Tetris Screenshot](example.png)
 
