@@ -77,7 +77,7 @@ class Tetris():
         '''initiates application UI'''
 
         self.backgroundFrame = QFrame(self.iface.mapCanvas())
-        self.backgroundFrame.setStyleSheet('background: rgba(90, 90, 90, 0.4)')
+        self.backgroundFrame.setStyleSheet('background: rgba(150, 150, 150, 0.3)')
 
         self.tboard = Board(self.iface.mapCanvas())
         self.tboard.setStyleSheet('background: rgba(90, 90, 90, 0.4)')
